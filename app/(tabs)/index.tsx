@@ -1,3 +1,3 @@
-import ForYouScreen from '../../components/ForYouScreen';
+import ForYouScreen from '../../screens/ForYou/ForYouScreen';
 
 export default ForYouScreen;
